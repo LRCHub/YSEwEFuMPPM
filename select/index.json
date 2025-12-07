@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ZOOM ZOOM",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-07T05:49:34.463597Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boom Boom In The Zoom Zoom Room",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/01_Boom_Boom_In_The_Zoom_Zoom_Room_Blondie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Zoom Zoom Zoom",
+      "artist": "The Collegians",
+      "has_synced": true,
+      "path": "select/02_Zoom_Zoom_Zoom_The_Collegians.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zoom, Zoom, Zoom",
+      "artist": "Kathy Reid-Naiman",
+      "has_synced": false,
+      "path": "select/03_Zoom,_Zoom,_Zoom_Kathy_Reid-Naiman.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zoom Zoom",
+      "artist": "Alexandra Stan",
+      "has_synced": false,
+      "path": "select/04_Zoom_Zoom_Alexandra_Stan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zoom Zoom",
+      "artist": "Polo & Pan",
+      "has_synced": false,
+      "path": "select/05_Zoom_Zoom_Polo_&_Pan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ZOOM ZOOM",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/06_ZOOM_ZOOM_aespa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zoom Zoom",
+      "artist": "Aespa",
+      "has_synced": true,
+      "path": "select/07_Zoom_Zoom_Aespa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zoom Zoom",
+      "artist": "Polo & Pan",
+      "has_synced": true,
+      "path": "select/08_Zoom_Zoom_Polo_&_Pan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Zing Zing, Zoom Zoom (Digitally Remastered)",
+      "artist": "Perry Como",
+      "has_synced": false,
+      "path": "select/09_Zing_Zing,_Zoom_Zoom_(Digitally_Remastered)_Perry_Como.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Zing Zing, Zoom Zoom",
+      "artist": "Perry Como",
+      "has_synced": false,
+      "path": "select/10_Zing_Zing,_Zoom_Zoom_Perry_Como.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Zoom Zoom Zoom",
+      "artist": "Aquarium",
+      "has_synced": true,
+      "path": "select/11_Zoom_Zoom_Zoom_Aquarium.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Zoom Zoom Zoom",
+      "artist": "Аквариум",
+      "has_synced": true,
+      "path": "select/12_Zoom_Zoom_Zoom_Аквариум.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ZOOM ZOOM",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_ZOOM_ZOOM_aespa.txt"
+    }
+  ]
+}
